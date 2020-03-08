@@ -1,0 +1,7 @@
+.idea
+
+.scannerwork
+*.iml
+target
+
+chromedriver*
